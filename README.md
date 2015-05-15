@@ -3,4 +3,4 @@ The [wiki](https://github.com/kmdouglass/ht-storm/wiki) contains information con
 
 # HT-Storm Project Code #
 
-The project code is hosted on the EPFL Git server. Please as [Kyle](mailto:kyle.douglass@epfl.ch) for access.
+The project code is hosted on the EPFL Git server. Please ask [Kyle](mailto:kyle.douglass@epfl.ch) for access.
