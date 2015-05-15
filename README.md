@@ -1,5 +1,6 @@
-# ht-storm
-HT-STORM project management
+# Visit the HT-Storm Wiki #
+The [wiki](https://github.com/kmdouglass/ht-storm/wiki) contains information concerning the project.
 
-# Visit the Wiki #
-The [wiki](https://github.com/kmdouglass/ht-storm/wiki) contains information on software setup and miscellaneous information concerning the project.
+# HT-Storm Project Code #
+
+The project code is hosted on the EPFL Git server. Please as [Kyle](mailto:kyle.douglass@epfl.ch) for access.
